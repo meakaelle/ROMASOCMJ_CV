@@ -1,0 +1,52 @@
+body{
+    font-family: Arial;
+    margin: 2;
+    padding: 2;
+    background-color: white;
+    line-height: 1.6;
+ }
+ .lol{
+    width: 210mm;
+    height: 297mm;
+    margin: auto;
+    padding: 20mm;
+    background: white;
+ }
+    .img{
+      width: 2in;
+      height:2in;
+      object-fit: cover;
+      margin-right: 20px;
+      border: 2px solid #ddd;
+ }
+ .basta{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+ }
+ 
+
+h1,h2{
+    color: black;
+    margin: 10px 0;
+}
+p, ul{
+    color: black;
+    margin: 10px;
+}
+ul{
+    padding-left: 20px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+  a.hover{
+    text-decoration: none;
+  }
+  .oval {
+    height: 45px;
+    width: 135px;
+    background-color: rgb(163, 163, 167);
+    border-radius: 50%;
+  }
